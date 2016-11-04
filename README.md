@@ -29,7 +29,7 @@ Simple BasicAuthentication for Play-Framework-Apps (implemented as Filter).
     }
     ```
 
-3. Add the extended HttpFilters as Filter to the application.configure
+3. Add the extended HttpFilters as Filter to the <code>application.conf</code>
 
     ```bash
     # Filters
