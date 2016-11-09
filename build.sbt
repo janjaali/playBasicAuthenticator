@@ -10,5 +10,5 @@ resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/release
 
 libraryDependencies ++= Seq(
   "com.typesafe.play" %% "play" % "2.5.6",
-  "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.0" % "test"
+  "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.0" % Test
 )
